@@ -1,0 +1,2 @@
+Link to the raw data file:
+https://github.com/owid/co2-data
