@@ -15,7 +15,7 @@ The Google Colab Jupyter Notebook will generate an html file index.html that wil
 * `index.html` — Contains the output `.html` visualization.
 
 ## 📊 Dataset Information
-* **Source:** Our World in Data - CO₂ and Greenhouse Gas Emissions Data  ([Link to source](owid-co2-data.csv))
+* **Source:** Our World in Data - CO₂ and Greenhouse Gas Emissions Data ([Link to source](https://github.com/owid/co2-data))
 * **Description:** This dataset contains the yearly data for CO₂ emissions metrics for all countries, continents, group of countries, etc. for multiple years
 
 ## 🛠️ Execution Guide
