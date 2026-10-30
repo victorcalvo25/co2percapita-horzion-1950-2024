@@ -1,4 +1,4 @@
-# Project Name: CO₂ per capita emissions comparison between 1950 - 2024 of the 15 countries with higher total CO₂ emissions on 2024
+# CO₂ per capita emissions comparison between 1950 - 2024 of the 15 countries with higher total CO₂ emissions on 2024
 
 **This project provides a visualization via a Horizon Graph that describes the evolution of the CO₂ emissions per capita for 15 countries with the higher total CO₂ emissions on 2024**
 
